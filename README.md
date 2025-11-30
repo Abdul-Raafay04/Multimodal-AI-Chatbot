@@ -20,3 +20,6 @@ This project implements a multimodal chatbot capable of processing text and imag
    python backend/app.py
 5. Start frontend:
    streamlit run frontend/streamlit_app.py
+
+
+   By: Mohammed Abdul Raafay 
