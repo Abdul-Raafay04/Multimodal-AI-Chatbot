@@ -1,0 +1,16 @@
+flask
+flask-cors
+flask-limiter
+python-dotenv
+requests
+
+langchain
+llama-index
+llama-index-readers-file
+llama-index-embeddings-huggingface
+
+transformers
+torch          # if running models locally (optional)
+Pillow
+
+streamlit
